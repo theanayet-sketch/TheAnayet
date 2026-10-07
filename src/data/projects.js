@@ -1,0 +1,11 @@
+export const projects = [
+    { id: 1, title: 'Travel Explore of Manikganj', subtitle: 'Travel guide platform for Manikganj district', description: 'A travel guide platform for Manikganj district.', category: 'Travel Guide', color: '#14b8a6', link: '', github: '#', image: '/projects/project-1.jpg' },
+    { id: 2, title: 'CoxBazar Tour', subtitle: "Tour booking & information for Cox's Bazar", description: "Tour booking and information website for Cox's Bazar.", category: 'Tour Booking', color: '#38bdf8', link: '', github: '#', image: '/projects/project-2.jpg' },
+    { id: 3, title: 'Travel Bangla', subtitle: 'Nationwide travel discovery platform', description: 'Nationwide travel discovery platform.', category: 'Travel Platform', color: '#c084fc', link: '', github: '#', image: '/projects/project-3.jpg' },
+    { id: 4, title: 'Tour of Gazipur', subtitle: 'Tourism website for Gazipur', description: 'Tourism website showcasing attractions in Gazipur.', category: 'Tourism', color: '#34d399', link: '', github: '#', image: '/projects/project-4.jpg' },
+    { id: 5, title: 'Birthday Wish', subtitle: 'Creative birthday greeting web app', description: 'Creative birthday greeting web application.', category: 'Web App', color: '#f472b6', link: '', github: '#', image: '/projects/project-5.jpg' },
+    { id: 6, title: 'Eid Mubarak Card', subtitle: 'Eid greeting card generator', description: 'Eid greeting card generator with customizable templates.', category: 'Web App', color: '#fbbf24', link: '', github: '#', image: '/projects/project-6.jpg' },
+    { id: 7, title: 'The Gadget', subtitle: 'Technology & gadget showcase', description: 'Technology and gadget showcase website.', category: 'Showcase', color: '#94a3b8', link: '', github: '#', image: '/projects/project-7.jpg' },
+    { id: 8, title: 'Clock 1', subtitle: 'Animated digital clock web app', description: 'Stylish animated digital clock web application.', category: 'Web App', color: '#22d3ee', link: '', github: '#', image: '/projects/project-8.jpg' },
+    { id: 9, title: 'VisaDotBD', subtitle: 'Visa-related digital platform', description: 'Visa-related digital platform.', category: 'Visa Platform', color: '#818cf8', link: '', github: '#', image: '/projects/project-9.jpg' },
+];
